@@ -9,7 +9,7 @@ This project introduces an advanced video retrieval system that efficiently proc
 ✅ **OCR Processing** – Recognizes text within frames using **VinOCR-1B** for Vietnamese OCR.  
 ✅ **Transcript-Based Search** – Processes video audio using **Whisper-3** for speech-to-text conversion and stores transcript embeddings using **Alibaba-NLP**.  
 ✅ **Retrieval-Augmented Generation (RAG)** – Enhances search results by **re-ranking and filtering** key video segments.  
-✅ **Flexible Query System** – Users can search via:  
+**Flexible Query System** – Users can search via:  
    - **Text queries** (keywords, descriptions)  
    - **Image-based search** (finding similar frames)  
    - **Transcript-based retrieval** (searching spoken content)  
