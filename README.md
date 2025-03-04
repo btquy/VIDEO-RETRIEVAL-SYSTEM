@@ -41,6 +41,6 @@ python main.py
 The backend is implemented in Python with deep learning models for content processing. 
 
 ## User Interface
-```
-![alt text](https://github.com/btquy/VIDEO-RETRIEVAL-SYSTEM/blob/efb88385482ef207af10cdf8ef8556e020180fcc/User_interface_1.png)
-```
+![User Interface](https://github.com/btquy/VIDEO-RETRIEVAL-SYSTEM/raw/efb88385482ef207af10cdf8ef8556e020180fcc/User_interface_1.png)
+
+
