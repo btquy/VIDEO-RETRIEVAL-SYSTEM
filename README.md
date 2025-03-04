@@ -23,12 +23,12 @@ This project introduces an advanced video retrieval system that efficiently proc
 - To set up the environment, follow the installation steps for both frontend and backend 
 - Ensuring GPU availability for optimal performance.
  ### 1. Clone the Repository
-    ``` bash
+``` 
     git clone https://github.com/btquy/VIDEO-RETRIEVAL-SYSTEM.git
-    ```
+```
 ### 2. Install Required Libraries
 - Open terminal and run
-``` bash
+``` 
 pip install -r requirements.txt
 ```
 - Negative frontend the folder and run the following cammand
