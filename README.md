@@ -42,5 +42,5 @@ The backend is implemented in Python with deep learning models for content proce
 
 ## User Interface
 ```
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](User_interface_1.png)
 ```
