@@ -52,7 +52,7 @@ The backend is implemented in Python with deep learning models for content proce
 
 ![User Interface](https://github.com/btquy/VIDEO-RETRIEVAL-SYSTEM/raw/efb88385482ef207af10cdf8ef8556e020180fcc/User_interface_2.png)
 
-- Secondary interfaces may enlarge any main screen frame. This layout has six primary parts: 
+- Secondary interfaces may enlarge any main screen frame. This layout has six primary parts:  
 (1) shows the frame and video to help customers understand their request.   
 (2)(6) enable complicated searches for comparable frames and better replies.   
 Frame or video from (1) appears on screen (3).  
