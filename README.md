@@ -1,7 +1,7 @@
 # Video Retrieval System with Image Embeddings and RAG
 
 ## Overview
-This project introduces an advanced video retrieval system that efficiently processes and indexes video content for rapid and precise search queries. The system integrates keyframe extraction, object detection, and multimodal embeddings to enhance video retrieval capabilities. Users can retrieve relevant video moments using textual descriptions, images, or metadata-based queries. 
+This project introduces an advanced video retrieval system that efficiently processes and indexes video content for fast and accurate search queries for the AI ​​Challenge HCM 2024. The system integrates keyframe extraction, object detection, and multimodal embedding to enhance video retrieval. Users can retrieve relevant video moments using text descriptions, images, or metadata-based queries. 
 
 ## Features
 - **Multimodal Video Retrieval** – Supports searching for video frames using **text, images, and transcripts**.  
@@ -41,14 +41,20 @@ python main.py
 The backend is implemented in Python with deep learning models for content processing. 
 
 ## User Interface
+- When build success, you can see the following interface 
 
 ![User Interface](https://github.com/btquy/VIDEO-RETRIEVAL-SYSTEM/raw/efb88385482ef207af10cdf8ef8556e020180fcc/User_interface_2.png)
 
 (1) Users can enter text inquiries or review transcripts in the left query field.  
 (2) This tool lets users filter results by label name, color, frame location, and several labels and store the selected item information.  
 (3) The central panel displays a grid of photos showing all inquiry input frames. Each frame offers two options: ‘move to top‘ and ‘delete.‘  
-(4) "Search," "Submit," and "Export" buttons at the bottom let users finish their 
-actions.
+(4) "Search," "Submit," and "Export" buttons at the bottom let users finish their actions.
 
 ![User Interface](https://github.com/btquy/VIDEO-RETRIEVAL-SYSTEM/raw/efb88385482ef207af10cdf8ef8556e020180fcc/User_interface_2.png)
 
+- Secondary interfaces may enlarge any main screen frame. This layout has six primary parts: 
+(1) shows the frame and video to help customers understand their request.   
+(2)(6) enable complicated searches for comparable frames and better replies.   
+Frame or video from (1) appears on screen (3).  
+(4) shows information on the right, while Part  
+(5) accepts replies. Q&A mode generates contest organizer-compliant answers. 
