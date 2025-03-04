@@ -1,4 +1,5 @@
 # Video Retrieval System with Image Embeddings and RAG
+
 ## Overview
 This project introduces an advanced video retrieval system that efficiently processes and indexes video content for rapid and precise search queries. The system integrates keyframe extraction, object detection, and multimodal embeddings to enhance video retrieval capabilities. Users can retrieve relevant video moments using textual descriptions, images, or metadata-based queries. 
 
@@ -26,10 +27,14 @@ This project introduces an advanced video retrieval system that efficiently proc
     git clone https://github.com/btquy/VIDEO-RETRIEVAL-SYSTEM.git
     ```
 ### 2. Install Required Libraries
-Open terminal and run
+- Open terminal and run
 ``` bash
 pip install -r requirements.txt
 ```
-
+- Negative frontend the folder and run the following cammand
+```
+pnpm install
+pnpm dev
+```
 
 The backend is implemented in Python with deep learning models for content processing, while the frontend offers an intuitive interface for seamless user interactions. 
