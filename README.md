@@ -24,17 +24,18 @@ This project introduces an advanced video retrieval system that efficiently proc
 - Ensuring GPU availability for optimal performance.
  ### 1. Clone the Repository
 ``` 
-    git clone https://github.com/btquy/VIDEO-RETRIEVAL-SYSTEM.git
+git clone https://github.com/btquy/VIDEO-RETRIEVAL-SYSTEM.git
 ```
 ### 2. Install Required Libraries
-- Open terminal and run
-``` 
-pip install -r requirements.txt
-```
 - Negative frontend the folder and run the following cammand
 ```
 pnpm install
 pnpm dev
 ```
-
-The backend is implemented in Python with deep learning models for content processing, while the frontend offers an intuitive interface for seamless user interactions. 
+The frontend offers an intuitive interface for seamless user interactions. 
+- With Backend folder
+```
+pip install -r requirement.txt
+python main.py
+```
+The backend is implemented in Python with deep learning models for content processing. 
