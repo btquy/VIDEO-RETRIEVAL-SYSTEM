@@ -39,3 +39,5 @@ pip install -r requirement.txt
 python main.py
 ```
 The backend is implemented in Python with deep learning models for content processing. 
+
+
