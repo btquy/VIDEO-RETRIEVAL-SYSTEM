@@ -1,7 +1,7 @@
 # Video Retrieval System with Image Embeddings and RAG
 
 ## Overview
-This project introduces an advanced video retrieval system that efficiently processes and indexes video content for fast and accurate search queries for the AI ​​Challenge HCM 2024. The system integrates keyframe extraction, object detection, and multimodal embedding to enhance video retrieval. Users can retrieve relevant video moments using text descriptions, images, or metadata-based queries. 
+This project introduces an advanced video retrieval system that efficiently processes and indexes video content for fast and accurate search queries for the [AI ​​Challenge HCM 2024](https://aichallenge.hochiminhcity.gov.vn). The system integrates keyframe extraction, object detection, and multimodal embedding to enhance video retrieval. Users can retrieve relevant video moments using text descriptions, images, or metadata-based queries. 
 
 ## Features
 - **Multimodal Video Retrieval** – Supports searching for video frames using **text, images, and transcripts**.  
