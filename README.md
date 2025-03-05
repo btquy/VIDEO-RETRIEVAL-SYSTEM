@@ -51,12 +51,11 @@ The backend is implemented in Python with deep learning models for content proce
    - **(3)** The central panel displays a grid of photos showing all inquiry input frames. Each frame offers two options: move to top and delete.  
    - **(4)** "Search," "Submit," and "Export" buttons at the bottom let users finish their actions.
 
-![User Interface](https://github.com/btquy/VIDEO-RETRIEVAL-SYSTEM/raw/efb88385482ef207af10cdf8ef8556e020180fcc/User_interface_2.png)
+![User Interface](https://github.com/btquy/VIDEO-RETRIEVAL-SYSTEM/raw/efb88385482ef207af10cdf8ef8556e020180fcc/User_interface_1.png)
 
-- Secondary interfaces may enlarge any main screen frame. This layout has six primary parts:
-  
+- Secondary interfaces may enlarge any main screen frame. This layout has six primary parts:  
    - **(1)** shows the frame and video to help customers understand their request.   
    - **(2)(6)** enable complicated searches for comparable frames and better replies.   
    - **(3)** Frame or video from (1) appears on screen.  
-   - **(4)*** shows information on the right, while Part  
+   - **(4)** shows information on the right, while Part  
    - **(5)** accepts replies. Q&A mode generates contest organizer-compliant answers. 
