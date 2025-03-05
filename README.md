@@ -45,18 +45,18 @@ The backend is implemented in Python with deep learning models for content proce
 
 ![User Interface](https://github.com/btquy/VIDEO-RETRIEVAL-SYSTEM/raw/efb88385482ef207af10cdf8ef8556e020180fcc/User_interface_2.png)
 
-- There are 4 area you can see:
+- There are 4 areas you can see:
    - **(1)** Users can enter text inquiries or review transcripts in the left query field.
    - **(2)** This tool lets users filter results by label name, color, frame location, and several labels and store the selected item information.  
-   - **(3)** The central panel displays a grid of photos showing all inquiry input frames. Each frame offers two options: ‘move to top‘ and ‘delete.‘  
+   - **(3)** The central panel displays a grid of photos showing all inquiry input frames. Each frame offers two options: move to top and delete.  
    - **(4)** "Search," "Submit," and "Export" buttons at the bottom let users finish their actions.
 
 ![User Interface](https://github.com/btquy/VIDEO-RETRIEVAL-SYSTEM/raw/efb88385482ef207af10cdf8ef8556e020180fcc/User_interface_2.png)
 
 - Secondary interfaces may enlarge any main screen frame. This layout has six primary parts:
   
-(1) shows the frame and video to help customers understand their request.   
-(2)(6) enable complicated searches for comparable frames and better replies.   
-Frame or video from (1) appears on screen (3).  
-(4) shows information on the right, while Part  
-(5) accepts replies. Q&A mode generates contest organizer-compliant answers. 
+   - **(1)** shows the frame and video to help customers understand their request.   
+   - **(2)(6)** enable complicated searches for comparable frames and better replies.   
+   - **(3)** Frame or video from (1) appears on screen.  
+   - **(4)*** shows information on the right, while Part  
+   - **(5)** accepts replies. Q&A mode generates contest organizer-compliant answers. 
